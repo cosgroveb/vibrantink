@@ -1,6 +1,6 @@
 " Vim color scheme
 "
-" Name:         vibrantink.vim
+" Name:         vibrantink1.2.vim
 " Maintainer:   Jo Vermeulen <jo.vermeulen@gmail.com> 
 " Last Change:  30 Jul 2007 
 " License:      public domain
@@ -24,7 +24,7 @@ if exists("syntax_on")
    syntax reset
 endif
 
-let g:colors_name = "vibrantink"
+let g:colors_name = "vibrantink1.2"
 
 highlight link diffAdded String
 highlight link diffRemoved Statement
